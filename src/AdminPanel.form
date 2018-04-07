@@ -100,7 +100,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\dcL\Downloads\icons8-admin-settings-male-32.png"/>
+              <Image iconType="3" name="/icons8-admin-settings-male-32.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Admin panel"/>
           </Properties>
@@ -114,7 +114,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\dcL\Downloads\database (1).png"/>
+              <Image iconType="3" name="/database (1).png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Asset"/>
           </Properties>
@@ -128,7 +128,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\dcL\Downloads\employees(1).png"/>
+              <Image iconType="3" name="/employees.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Employee"/>
           </Properties>
@@ -145,7 +145,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\dcL\Downloads\database.png"/>
+              <Image iconType="3" name="/database.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Asset Add"/>
           </Properties>
@@ -159,7 +159,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\dcL\Downloads\logout.png"/>
+              <Image iconType="3" name="/logout.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Logout"/>
           </Properties>
